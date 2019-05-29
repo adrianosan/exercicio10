@@ -1,0 +1,2 @@
+# exercicio10
+10
